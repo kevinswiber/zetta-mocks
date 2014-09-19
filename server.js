@@ -10,5 +10,5 @@ zetta()
   .use(LED)
   .use(Screen)
   .use(Arm)
-  .load(alert)
+  .use(alert)
   .listen(process.env.PORT || 1337);
