@@ -4,8 +4,7 @@
   "description": "A basic Zetta sample.",
   "main": "server.js",
   "dependencies": {
-    "zetta": "~0.3.0",
-    "zetta-auto-scout": "~0.2.0"
+    "zetta": ">=0.10.0"
   },
   "devDependencies": {},
   "scripts": {
